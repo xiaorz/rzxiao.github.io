@@ -1,0 +1,10 @@
+[1] Biplob Debnath, Alireza Haghdoost, Asim Kadav, Mohammed G Khatib, and Cristian Ungureanu. 2016. Revisiting hash table design for phase change memory.
+ACM SIGOPS Operating Systems Review 49, 2 (2016), 18–26. 
+[2] Haris Volos, Guilherme Magalhaes, Ludmila Cherkasova, and Jun Li. 2015. Quartz:A lightweight performance emulator for persistent memory software. 
+In Middleware. ACM, New York, NY, USA, 37–49.
+[3] Renzhi Xiao, Dan Feng, Yuchong Hu, Fang Wang, Xueliang Wei, Xiaomin Zou, and Mengya Lei. 2021. Write-Optimized and Consistent Skiplists for Non-Volatile
+Memory. IEEE Access 9 (2021), 69850–69859.
+[4] Xiaoyi Zhang, Dan Feng, Yu Hua, Jianxi Chen, and Mandi Fu. 2018. A Write-efficient and Consistent Hashing Scheme for Non-Volatile Memory. In ICPP. ACM,
+New York, NY, USA, 87.
+[5] Pengfei Zuo and Yu Hua. 2017. A write-friendly hashing scheme for non-volatile memory systems. In MSST. IEEE, Piscataway, NJ, USA, 1–10.
+[6] Pengfei Zuo, Yu Hua, and Jie Wu. 2018. Write-optimized and high-performance hashing index scheme for persistent memory. In OSDI. USENIX, Berkeley, CA, USA, 461–476
